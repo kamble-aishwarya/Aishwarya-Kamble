@@ -33,6 +33,11 @@ End-to-end analytics project using Excel, SQL, Power BI & Tableau.
 🔗 Repo: *[link to Internship Project Repo](https://github.com/kamble-aishwarya/Data-Analyst-Internship-Project)*
 
 
+### 📌 **Bank Analytics Project**
+End-to-end banking data analysis using Excel, SQL, Power BI & Tableau.  
+🔗 Repo: *[link to Bank Analytics Project Repo](https://github.com/kamble-aishwarya/Bank-Analytics-Project)*
+
+
 ### 📌 **Excel Projects**  
 Dashboards, data cleaning workflows, pivot tables.  
 🔗 Repo: *[link to Excel Repo](https://github.com/kamble-aishwarya/Excel-Dashboard)*
