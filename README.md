@@ -30,29 +30,28 @@ I love turning raw data into clean insights, building dashboards, and uncovering
 
 ### 📌 **Internship / Capstone Project**  
 End-to-end analytics project using Excel, SQL, Power BI & Tableau.  
-🔗 Repo: *Add your link here*
+🔗 Repo: *[link to Internship Project Repo](https://github.com/kamble-aishwarya/Data-Analyst-Internship-Project)*
+
 
 ### 📌 **Excel Projects**  
 Dashboards, data cleaning workflows, pivot tables.  
-🔗 Repo: *[link to Excel Repo](https://github.com/aishwaryakamble-730/Excel-Dashboard)*
+🔗 Repo: *[link to Excel Repo](https://github.com/kamble-aishwarya/Excel-Dashboard)*
 
-### 📌 **SQL Assignments**  
-24-query assignment + modules + practice sets.  
-🔗 Repo: *Add your link here*
 
 ### 📌 **Power BI Dashboards**  
 Interactive dashboards built with DAX & data modeling.  
-🔗 Repo: *Add your link here*
+🔗 Repo: *[link to Power-BI Repo](https://github.com/kamble-aishwarya/Power-BI-Dashboard)*
+
 
 ### 📌 **Tableau Projects**  
 TWBX dashboards and visual stories.  
-🔗 Repo: *Add your link here*
+🔗 Repo: *[link to Tableau Repo](https://github.com/kamble-aishwarya/Tableau-Dashboard)*
 
 ---
 
 ## 📩 Contact Me  
 📧 Email: **aishwaryakamble730@gmail.com**  
-💼 LinkedIn: **www.linkedin.com/in/aishwaryakamble730**
+💼 LinkedIn: **www.linkedin.com/in/kamble-aishwarya**
 
 ---
 
